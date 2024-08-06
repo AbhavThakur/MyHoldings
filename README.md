@@ -44,7 +44,9 @@ To get started with this project, follow these steps:
    npm run android -- --mode="release" (For release APK)
    ```
 
-4. **Screenshots:**
+4. **App Link to install:**
+5. [**App Link to open:**](https://drive.google.com/file/d/1XVQn1c7VDXaT7yuXLedPAe9QVCZnOhMj/view?usp=sharing)
+6. **Screenshots:**
 
    ![HoldingsList App](src/assets/1.png)
    ![HoldingsList App](src/assets/2.png)
