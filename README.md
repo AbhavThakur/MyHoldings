@@ -41,3 +41,10 @@ To get started with this project, follow these steps:
 
    ![HoldingsList App](src/assets/1.png)
    ![HoldingsList App](src/assets/2.png)
+
+4. **Production mode:** To run the app in production mode, use the following command:
+
+   ```bash
+   npx react-native build-android --mode=release (For aab file) )
+   npm run android -- --mode="release" (For release APK)
+   ```
