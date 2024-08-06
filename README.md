@@ -29,5 +29,15 @@ To get started with this project, follow these steps:
    git clone https://github.com/AbhavThakur/MyHoldings
    cd MyHoldings
    npm install
+   ```
+
+2. **Run the app:**
+
+   ```bash
    npx react-native run-android
    ```
+
+3. **Screenshots:**
+
+   ![HoldingsList App](src/assets/1.png)
+   ![HoldingsList App](src/assets/2.png)
