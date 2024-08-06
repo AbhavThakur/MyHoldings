@@ -45,8 +45,8 @@ To get started with this project, follow these steps:
    ```
 
 4. **App Link to install:**
-5. [**App Link to open:**](https://drive.google.com/file/d/1XVQn1c7VDXaT7yuXLedPAe9QVCZnOhMj/view?usp=sharing)
-6. **Screenshots:**
+   [**App Link to open:**](https://drive.google.com/file/d/1XVQn1c7VDXaT7yuXLedPAe9QVCZnOhMj/view?usp=sharing)
+5. **Screenshots:**
 
    ![HoldingsList App](src/assets/1.png)
    ![HoldingsList App](src/assets/2.png)
