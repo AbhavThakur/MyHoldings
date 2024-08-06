@@ -29,7 +29,6 @@ const HoldingsList: React.FC = () => {
         const response = await axios.get(
           'https://35dee773a9ec441e9f38d5fc249406ce.api.mockbin.io/',
         );
-        console.log('Fetched data:', response.data); // Log the fetched data for debugging
         if (Array.isArray(response.data.data.userHolding)) {
           setHoldings(response.data.data.userHolding);
         } else {
